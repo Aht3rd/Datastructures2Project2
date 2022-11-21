@@ -1,0 +1,16 @@
+/***************************************************************
+  Student Name: Thomas, Arthur
+  File Name: UserManual.docx
+  Assignment number: Project 2
+
+  User manual for project 2
+***************************************************************/
+
+This project includes a makefile. The program is compiled using the 'make' command. 
+The program is then run using the command '/main'. After compiling and running the program it will
+prompt the user for the number ov events to simulate, the average arivals in a time period, the 
+average number served in a time period, and the number of service channels. The number of service
+must be between 1 and 10, if a value not between 1 and 10 is entered it will continue prompting the
+user to enter until a value between 1 and 10 is entered. After the program is done getting the input
+from the user it will run and print out the results of the simulation analysis as well as the analytical
+results to the screen.
